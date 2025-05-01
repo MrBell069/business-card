@@ -1,1 +1,1 @@
-# My first experience working with html and css.
+# My first experience working with HTML and CSS.
