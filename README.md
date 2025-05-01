@@ -1,2 +1,1 @@
-# business-card
-my business card. 
+# My first experience working with html and css.
